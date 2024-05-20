@@ -1,0 +1,16 @@
+h1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+button
+{
+background-color: blue;
+width: 20%;
+height: 8vh;
+color: #fff;  
+}
+
+button:hover{
+  color: #fff;
+  background-color: green;
+}
